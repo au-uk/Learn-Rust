@@ -1,4 +1,4 @@
-# Learn Rust
+# Rust Aide-mémoire
  Following "The Book" ( https://doc.rust-lang.org/book/ and https://github.com/rust-lang/book/ ) while taking to notes to help me (and perhaps you) remember the what... "seemed important at the time, but is now sadly forgotten".
 
 ## Why Learn Rust
